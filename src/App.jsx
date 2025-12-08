@@ -4,8 +4,9 @@ import Userlogin from "./Pages/Userlogin"
 function App() {
   return (
     <>
-<Stocks/>
+
 <Userlogin/>
+<Stocks/>
 
     </>
   )
